@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jul 11 11:14:20 WIB 2018
+0.baseType=DIRECTORY
+0.base=/media/budi/Dell_Data/Documents/Kuliah/Semester 6/Bussiness Intelligence/Siakad/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

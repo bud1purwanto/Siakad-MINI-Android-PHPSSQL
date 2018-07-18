@@ -1,0 +1,4 @@
+#Mon Jul 16 12:15:13 WIB 2018
+base.0=/media/budi/Dell_Data/Documents/Kuliah/Semester 6/Bussiness Intelligence/Siakad/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
